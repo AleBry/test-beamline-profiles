@@ -105,7 +105,7 @@ jobs:
             beamline-redis-prefix: "swaxs-"
           - org: "NSLS-II-SRX"
             repo: "profile_collection"
-            branch: "master"
+            branch: "main" # Used to be "master", but changed to "main" 
             beamline-acronym: "srx"
           - org: "NSLS-II-SST"
             repo: "profile_collection"
