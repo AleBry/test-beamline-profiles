@@ -21,8 +21,8 @@ jobs:
             repo: "profile_collection"
             branch: "2025-2.0"
             beamline-acronym: "amx"
-          - org: "NSLS-II-BMM"
-            repo: "profile_collection"
+          - org: "AleBry"
+            repo: "bmm-profile-collection"
             branch: "main" # Used to be "master", but changed to "main" 
             beamline-acronym: "bmm"
           - org: "NSLS-II-CHX"
@@ -125,7 +125,7 @@ jobs:
             beamline-acronym: "tes"
           - org: "NSLS-II-TST"
             repo: "profile_collection"
-            branch: "main" # Used to be 2025-2.0, but changed to "main", 2025-2.0 is not a branch
+            branch: "2025-3.0-updates-3" # Used to be main, but changed to this
             beamline-acronym: "tst"
           - org: "NSLS-II-XFM"
             repo: "profile_collection"
