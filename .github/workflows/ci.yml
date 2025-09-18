@@ -23,7 +23,7 @@ jobs:
             beamline-acronym: "amx"
           - org: "NSLS-II-BMM"
             repo: "profile_collection"
-            branch: "master"
+            branch: "main" # Used to be "master", but changed to "main" 
             beamline-acronym: "bmm"
           - org: "NSLS-II-CHX"
             repo: "profile_collection"
