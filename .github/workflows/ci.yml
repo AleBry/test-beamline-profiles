@@ -48,7 +48,7 @@ jobs:
             beamline-acronym: "arpes"
           - org: "NSLS-II-ESM-2"
             repo: "profile_collection"
-            branch: "master"
+            branch: "main" # Used to be "master", but changed to "main"
             beamline-acronym: "xpeem"
           - org: "NSLS-II-FMX"
             repo: "profile_collection"
